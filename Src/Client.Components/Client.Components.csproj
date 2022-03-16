@@ -6,4 +6,13 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="Assets\package-lock.json" />
+      <Content Include="Assets\package.json" />
+    </ItemGroup>
+
 </Project>

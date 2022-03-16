@@ -67,6 +67,8 @@
       <_ContentIncludedByDefault Remove="Client.Host\obj\Release\net6.0\staticwebassets.build.json" />
       <_ContentIncludedByDefault Remove="Client.Host\obj\Release\net6.0\staticwebassets.development.json" />
       <_ContentIncludedByDefault Remove="Client.Host\Properties\launchSettings.json" />
+      <_ContentIncludedByDefault Remove="Assets\package-lock.json" />
+      <_ContentIncludedByDefault Remove="Assets\package.json" />
     </ItemGroup>
 
 </Project>
